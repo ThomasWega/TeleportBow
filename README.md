@@ -4,12 +4,12 @@ TeleportBowPlugin for Minecraft made in Java
 
 I don't recommend anoyone to actually use this. I just want to archive my first Minecraft plugins here. :)
 
-Commands:
+**Commands:**
 
     /givebow
     /givebow <target>
 
-Permissions:
+**Permissions:**
 
     wega.bow
     wega.admin
