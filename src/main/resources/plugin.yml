@@ -1,0 +1,9 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.wega.teleportbow.Main
+api-version: 1.19
+authors: [ Wega ]
+description: Bow you can teleport with
+commands:
+  givebow:
+    description: Gives a teleport bow
