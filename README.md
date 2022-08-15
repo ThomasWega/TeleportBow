@@ -4,6 +4,7 @@ TeleportBowPlugin for Minecraft made in Java
 <br/>
 _I don't recommend anoyone to actually use this. I just want to archive my first Minecraft plugins here. :)_
 <br/>
+<br/>
 **Commands:**
 ```
     /givebow
